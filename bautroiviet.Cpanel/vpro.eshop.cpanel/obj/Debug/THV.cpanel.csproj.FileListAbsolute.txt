@@ -1,0 +1,5 @@
+D:\PhongHT\Websites\dev\THV.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\THV.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\PhongHT\Websites\dev\THV.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\PhongHT\Websites\dev\THV.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\THV.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb

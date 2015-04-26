@@ -1,0 +1,11 @@
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\bautroiviet.Cpanel.csprojResolveAssemblyReference.cache
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\WWW\bautroiviet\resource\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\bautroiviet.Cpanel.csprojResolveAssemblyReference.cache
+D:\WWW\bautroiviet\resource\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\WWW\bautroiviet\resource\bautroiviet.Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\WWW\bautroiviet\resource\bautroiviet.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\WWW\bautroiviet\resource\bautroiviet.Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb

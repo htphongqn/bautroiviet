@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteVI.master.cs" Inherits="THVDev.Master.SiteVI" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register src="../UIs/Toppage.ascx" tagname="Toppage" tagprefix="uc1" %>
+<%@ Register src="../UIs/Header.ascx" tagname="Header" tagprefix="uc1" %>
+<%@ Register src="../UIs/Footer.ascx" tagname="Footer" tagprefix="uc1" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>    
+    <title></title>
+    <link rel="stylesheet" href="/vi-vn/Styles/template.css" type="text/css" />
+    <script type="text/javascript" src="/vi-vn/Scripts/jquery-1.8.3.min.js"></script>
+    <!--Main Menu-->
+    <link href="/vi-vn/Styles/newheadfooter.css" rel="stylesheet" type="text/css" />
+    <!--Nivo Slider Responsive-->
+    <link rel="stylesheet" href="/vi-vn/Styles/nivo-slider.css" type="text/css" media="screen" />
+    <!--Cloud Zoom-->
+    <link href="/vi-vn/Styles/cloud-zoom.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server"> 
+    <!--Top Page-->
+    <uc1:Toppage ID="Toppage1" runat="server" />
+    <!--end Top Page-->
+<!--#begin Wrap-->
+<div class="wrap">
+  <div class="wrap_main">
+    <!--#begin Header-->
+    <uc1:Header ID="Header1" runat="server" />
+    <!--#end Header-->
+
+    <asp:ContentPlaceHolder ID="ContentRight" runat="server">
+    </asp:ContentPlaceHolder> 
+
+    <uc1:Footer ID="Footer2" runat="server" />
+    <!--end Footer-->
+  </div>
+</div>
+<!-- End wrap-->
+    <!-- back to top -->
+    <script type="text/javascript" src="/vi-vn/Scripts/scrolltopcontrol.js"></script>
+    <div id="toTop"></div>
+    <script type="text/javascript" src="/vi-vn/Scripts/jquery.nivo.slider.pack.js"></script>
+    <!--Carousel Assets-->
+    <script type="text/javascript" src="/vi-vn/Scripts/jquery.carouFredSel-5.6.0-packed.js"></script>
+    <script type="text/javascript" src="/vi-vn/Scripts/cloud-zoom.1.0.2.js"></script>
+    <script type="text/javascript" src="/vi-vn/Scripts/all_scripts.js"></script>
+    </form>
+</body>
+</html>
